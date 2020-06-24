@@ -30,3 +30,18 @@
 .contact-details {
     color: #fff;
 }
+.sections-links .btn{
+        font-size: 13px;
+        color: #000;
+        letter-spacing: 1px;
+        line-height: 15px;
+        border: 1px solid #000;
+        border-radius: 40px;
+        background: transparent;
+        transition: all 0.3s ease 0s;
+}
+
+.card {
+    background-color: #e8e8e8;
+    border-radius: 0px;
+}
