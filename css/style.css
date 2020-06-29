@@ -23,7 +23,7 @@
 }
 
 #map {
-    height: 450px;  /* The height is 400 pixels */
+    height: 100%;  /* The height is 400 pixels */
     width: 100%;  /* The width is the width of the web page */
    }
 
@@ -44,4 +44,13 @@
 .card {
     background-color: #e8e8e8;
     border-radius: 0px;
+}
+.social-icons {
+    font-size: 50px;
+    color: #8a0eaf;
+}
+
+.rights {
+    border-top: 1px solid;
+
 }
