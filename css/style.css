@@ -50,7 +50,19 @@
     color: #8a0eaf;
 }
 
+.footer {
+    background-color: #001c38;
+    color: #fff;
+}
+.footer span, a {
+    color: #5e7081;
+}
 .rights {
     border-top: 1px solid;
 
 }
+.jumbotron {
+    background-image: url(../ikony/image_background.jpeg);
+    background-size: cover;
+    color: #fff
+  }
